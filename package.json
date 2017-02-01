@@ -1,0 +1,15 @@
+{
+  "name": "yet-another-markov-generator",
+  "version": "0.0.1",
+  "description": "another markov generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "syckbear",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "tape": "^4.6.3",
+    "underscore": "^1.8.3"
+  }
+}
